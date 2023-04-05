@@ -6,7 +6,7 @@ function Podcast() {
       <h1>Here is a link to my podcast!</h1>
       <br />
       <br />
-      <a href="https://baconsale.com/">
+      <a href="https://baconsale.com/" target="_blank" rel="noreferrer">
         <i>Baconsale</i>
       </a>
     </>

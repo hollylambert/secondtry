@@ -13,10 +13,10 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route path="" element={<Home />}></Route>
-          <Route path="Home" element={<Home />}></Route>
-          <Route path="Movies" element={<Movies />}></Route>
-          <Route path="Podcast" element={<Podcast />}></Route>
+          <Route path="" element={<Home />} />
+          <Route path="Home" element={<Home />} />
+          <Route path="Movies" element={<Movies />} />
+          <Route path="Podcast" element={<Podcast />} />
         </Routes>
       </div>
     </BrowserRouter>
