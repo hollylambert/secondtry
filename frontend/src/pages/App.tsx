@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './JoelHiltonHeadshot.jpeg';
 import '../App.css';
 
 function App() {
