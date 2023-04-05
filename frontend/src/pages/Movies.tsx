@@ -7,8 +7,8 @@ function Movies() {
   const [listOfMovies] = useState(md);
 
   // eslint-disable-next-line no-lone-blocks
-  {
-    /*
+
+  /*
   const addMovie = () => {
     setListOfMovies([
       ...md,
@@ -23,7 +23,7 @@ function Movies() {
     ]);
   };
 */
-  }
+
   return (
     <>
       <div>
