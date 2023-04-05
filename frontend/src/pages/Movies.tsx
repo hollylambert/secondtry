@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import data from '../MovieData.json';
 
-const md = data.MovieData;
-
 function Movies() {
+  const md = data.MovieData;
+
   const [listOfMovies] = useState(md);
 
   // eslint-disable-next-line no-lone-blocks

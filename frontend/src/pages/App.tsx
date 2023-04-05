@@ -1,20 +1,25 @@
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import React from 'react';
 import '../App.css';
-
+import TopBanner from './first';
+import Movies from './Movies';
+import { Home } from './Home';
+import Navbar from './Navbar';
+import Podcast from './Podcast';
+//test
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Joel Hilton's Site</h1>
-        <img src={logo} alt="Joel Hilton" />
-        <br></br>
-        <br></br>
-        <p>
-          Welcome to my site! This website will display my favorite movies
-          database and provide a link to my podcast. Enjoy!
-        </p>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Navbar />
+        <Routes>
+          <Route path="" element={<Home />}></Route>
+          <Route path="Home" element={<Home />}></Route>
+          <Route path="Movies" element={<Movies />}></Route>
+          <Route path="Podcast" element={<Podcast />}></Route>
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 

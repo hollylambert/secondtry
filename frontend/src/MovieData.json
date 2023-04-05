@@ -106,7 +106,7 @@
     },
     {
       "Category": "Action/Adventure",
-      "Title": "Harry Potter and the Deathly Hallows – Part 1",
+      "Title": "Harry Potter and the Deathly Hallows  Part 1",
       "Year": 2010,
       "Director": "David Yates",
       "Rating": "PG-13",
@@ -114,7 +114,7 @@
     },
     {
       "Category": "Action/Adventure",
-      "Title": "Harry Potter and the Deathly Hallows – Part 2",
+      "Title": "Harry Potter and the Deathly Hallows  Part 2",
       "Year": 2011,
       "Director": "David Yates",
       "Rating": "PG-13",
@@ -324,13 +324,13 @@
       "Category": "Action/Adventure",
       "Title": "Mission: Impossible III",
       "Year": 2006,
-      "Director": "J.J. Abrams ",
+      "Director": "J.J. Abrams",
       "Rating": "PG-13",
       "Edited": "No"
     },
     {
       "Category": "Action/Adventure",
-      "Title": "Mr. & Mrs. Smith",
+      "Title": "Mr. & Mrs. Smith",
       "Year": 2005,
       "Director": "Doug Liman",
       "Rating": "PG-13",
@@ -460,7 +460,7 @@
       "Category": "Action/Adventure",
       "Title": "Star Wars Episode V: The Empire Strikes Back",
       "Year": 1980,
-      "Director": " Irvin Kershner",
+      "Director": "Irvin Kershner",
       "Rating": "PG",
       "Edited": "No"
     },
@@ -532,7 +532,7 @@
       "Category": "Action/Adventure",
       "Title": "X-Men: The Last Stand",
       "Year": 2006,
-      "Director": "Brett Ratner ",
+      "Director": "Brett Ratner",
       "Rating": "PG-13",
       "Edited": "No"
     },
@@ -722,7 +722,7 @@
     },
     {
       "Category": "Comedy",
-      "Title": "Ferris Bueller’s Day Off",
+      "Title": "Ferris Bueller's Day Off",
       "Year": 1986,
       "Director": "John Hughes",
       "Rating": "PG-13",
