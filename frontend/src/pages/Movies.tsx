@@ -30,7 +30,7 @@ function Movies() {
         <h3>Joel Hilton's Movie Collection</h3>
       </div>
       <div>
-        <table className="table">
+        <table className="table table-striped table-bordered text-start">
           <thead>
             <tr>
               <th>Title</th>
